@@ -63,4 +63,7 @@ public class Employee {
         return salary;
     }
 
+    // NO setters because we are not interested in setting or changing any data.
+
+
 }
